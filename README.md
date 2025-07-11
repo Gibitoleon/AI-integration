@@ -1,0 +1,4 @@
+This project is a personal exploration into the integration of AI technologies, specifically focused on working with models like Gemini from Google. 
+The goal is to understand how artificial intelligence can be connected to real-world applications using modern APIs and tools. Through this project, 
+I experiment with sending prompts, handling responses, and building interactive features powered by AI. It’s part of my journey to learn how 
+intelligent systems work under the hood and how developers can harness them to create smarter, more responsive software experiences.
